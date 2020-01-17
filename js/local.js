@@ -4,7 +4,7 @@ var Local = function (socket) {
   var game
 
   // 时间间隔
-  var INTERVAL = 2000
+  var INTERVAL = 200
 
   // 定时器
   var timer = null
