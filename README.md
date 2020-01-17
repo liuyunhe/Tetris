@@ -11,5 +11,5 @@ npm run install
 ```
 启动
 ```javascript
-node wsServer.js
+npm run start
 ```

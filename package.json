@@ -1,0 +1,23 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "基于websocket原理，实现可以两人实时对战的俄罗斯方块",
+  "main": "wsServer.js",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node wsServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyunhe/Tetris.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyunhe/Tetris/issues"
+  },
+  "homepage": "https://github.com/liuyunhe/Tetris#readme"
+}
