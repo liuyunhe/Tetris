@@ -4,7 +4,7 @@
   "description": "基于websocket原理，实现可以两人实时对战的俄罗斯方块",
   "main": "wsServer.js",
   "dependencies": {
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {},
   "scripts": {
